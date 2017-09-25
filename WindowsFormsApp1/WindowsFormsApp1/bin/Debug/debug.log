@@ -1,0 +1,18 @@
+[0923/113644.253:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0923/113644.265:ERROR:exception_snapshot_win.cc(87)] thread ID 10100 not found in process
+[0923/113644.265:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0923/113853.527:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0923/113853.528:ERROR:exception_snapshot_win.cc(87)] thread ID 8704 not found in process
+[0923/113853.528:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0923/140523.941:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0923/140523.969:ERROR:exception_snapshot_win.cc(87)] thread ID 12096 not found in process
+[0923/140523.969:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0923/140806.310:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0923/140806.311:ERROR:exception_snapshot_win.cc(87)] thread ID 944 not found in process
+[0923/140806.311:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0923/175153.197:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0923/175153.236:ERROR:exception_snapshot_win.cc(87)] thread ID 5832 not found in process
+[0923/175153.236:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0923/183421.520:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0923/183421.521:ERROR:exception_snapshot_win.cc(87)] thread ID 4676 not found in process
+[0923/183421.521:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
