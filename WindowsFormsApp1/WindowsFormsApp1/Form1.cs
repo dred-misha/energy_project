@@ -41,11 +41,13 @@ namespace WindowsFormsApp1
                 SearchElement.Click();
                 //проверка верности адреса проживания
                 //Надо доделать проверку на правильный адрес. Не получилось найти и сравнить выводимый адрес на страничке
-                //SearchElement = Browser.FindElement(By.ClassName("s-desc light cust-class-service-3"));
-                //if (SearchElement.Text == "ул Премудрова, д.   10корп.1, кв.58")
-                //{
-                //MessageBox.Show("Адрес верен");
-                // }
+                Thread.Sleep(2000);
+                SearchElement = Browser.FindElement(By.ClassName("s-desc light cust-class-service-3"));
+                if (SearchElement.Text != Adr)
+                {
+                    MessageBox.Show("Адрес не верен");
+                    Browser.Close();
+                }
                 //подтверждаем адрес по нажатия 
                 Thread.Sleep(1000); //без задержки почему то не срабатывало
                 SearchElement = Browser.FindElement(By.CssSelector(".butt .btn"));
