@@ -28,6 +28,7 @@ namespace WindowsFormsApp1
         private void button2_Click(object sender, EventArgs e)
         {
             // Привет от Макса! 
+            //ответочка
             // проверка на ввод данных в поля
             if ((textBox1.Text != String.Empty) && (textBox2.Text != String.Empty) && (textBox3.Text != String.Empty))
             {
